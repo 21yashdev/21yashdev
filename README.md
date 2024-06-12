@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on:<br>Fullstack Developer and Devops.<br>🌱 I’m currently learning:<br>Advanced Javascript and Rust.<br>💬 Ask me about:<br>Python, JavaScript, HTML, CSS, C and any general software development questions.<br>⚡ Fun fact:<br>I think a violent developer.
+👯 I’m looking to collaborate on:<br>Fullstack Developer and Devops.<br>🌱 I’m currently learning:<br>Advanced Python and React.<br>💬 Ask me about:<br>Python, JavaScript, HTML, CSS, C and any general software development questions.<br>⚡ Fun fact:<br>I think a violent developer.
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
